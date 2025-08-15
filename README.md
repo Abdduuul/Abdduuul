@@ -1,5 +1,4 @@
 # Hi, I'm Abdduuul! 👋
-
 🎓 **Student & Aspiring Developer**  
 Welcome to my GitHub profile! I'm passionate about learning new technologies and building fun, impactful projects.
 
